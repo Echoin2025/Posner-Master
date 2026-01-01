@@ -159,14 +159,6 @@ python posner_analysis.py
 - ✅ 清洗后的数据（`cleaned_data.csv`）
 - ✅ 文本分析报告（`posner_analysis_report.txt`）
 
-### 4. 生成报告
-
-```bash
-# 编译LaTeX报告
-xelatex posner_report.tex
-xelatex posner_report.tex  # 第二次生成目录
-```
-
 ## 📊 数据分析
 
 ### 数据清洗
