@@ -1,0 +1,7 @@
+instructs.started,instructs.stopped,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,mouse.clicked_name,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,targetX,cueOri,congr,corrAns,trials.order
+0.0002,13.6501,99,1,2025-12-15,posner,2023.2.2,MacIntel,29.94011976,,,,,,,,,,,,,,,,,,,,,
+,,99,1,2025-12-15,posner,2023.2.2,MacIntel,29.94011976,13.6575,15.4505,0.34818308,0.014292934,1.0,0.0,0.0,0.7666,target,15.4509,16.4509,0.0,0.0,0.0,11.0,1.0,0.35,0.0,0.0,right,
+,,99,1,2025-12-15,posner,2023.2.2,MacIntel,29.94011976,16.4519,18.1834,-0.278834293,-0.038141619,1.0,0.0,0.0,0.6996,target,18.1837,19.1841,0.0,1.0,1.0,6.0,1.0,-0.35,0.0,1.0,left,
+,,99,1,2025-12-15,posner,2023.2.2,MacIntel,29.94011976,19.1846,20.917,-0.284732216,-0.021051775,1.0,0.0,0.0,0.7006,target,20.9172,21.917,0.0,2.0,2.0,4.0,1.0,-0.35,0.0,1.0,left,
+,,99,1,2025-12-15,posner,2023.2.2,MacIntel,29.94011976,21.9177,23.65,0.289610746,-0.042707477,1.0,0.0,0.0,0.6994,target,23.6502,24.6505,0.0,3.0,3.0,5.0,1.0,0.35,180.0,1.0,right,
+,,99,1,2025-12-15,posner,2023.2.2,MacIntel,29.94011976,24.651,,,,,,,,,,,0.0,4.0,4.0,3.0,1.0,0.35,180.0,1.0,right,13.0

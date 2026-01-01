@@ -1,0 +1,4 @@
+instructs.started,instructs.stopped,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,mouse.clicked_name,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,targetX,cueOri,congr,corrAns
+0.003,1.603,asumi,1,2025-12-22,posner,2023.2.2,MacIntel,30.3030303,,,,,,,,,,,,,,,,,,,,
+,,asumi,1,2025-12-22,posner,2023.2.2,MacIntel,30.3030303,1.613,7.77,-0.320768137,-0.013513514,1.0,0.0,0.0,5.133,target,7.775,8.774,0.0,0.0,0.0,2.0,1.0,-0.35,0.0,1.0,left
+,,asumi,1,2025-12-22,posner,2023.2.2,MacIntel,30.3030303,8.776,10.704,-0.320768137,0.012091038,1.0,0.0,0.0,0.899,target,10.705,11.703,0.0,1.0,1.0,12.0,1.0,-0.35,180.0,0.0,left

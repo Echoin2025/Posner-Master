@@ -1,0 +1,5 @@
+instructs.started,instructs.stopped,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,mouse.clicked_name,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,targetX,cueOri,congr,corrAns
+0.0003,1.171,111,1,2025-12-20,posner,2023.2.2,Win32,60.24096386,,,,,,,,,,,,,,,,,,,,
+,,111,1,2025-12-20,posner,2023.2.2,Win32,60.24096386,1.1734,6.9385,-0.337323177,-0.023394995,1.0,0.0,0.0,4.7505,target,6.9386,7.9378,0.0,0.0,0.0,12.0,1.0,-0.35,180.0,0.0,left
+,,111,1,2025-12-20,posner,2023.2.2,Win32,60.24096386,7.938,10.0209,0.335146899,-0.049510337,1.0,0.0,0.0,1.0663,target,10.0209,11.0213,0.0,1.0,1.0,13.0,1.0,0.35,0.0,0.0,right
+,,111,1,2025-12-20,posner,2023.2.2,Win32,60.24096386,11.0216,12.6874,0.413492927,-0.008161045,1.0,0.0,0.0,0.6493,target,12.6875,13.6881,0.0,2.0,2.0,11.0,1.0,0.35,0.0,0.0,right
