@@ -256,7 +256,7 @@ xelatex posner_report.tex  # 第二次生成目录
 
 如有问题或建议，欢迎联系：
 
-- 项目主页：[GitHub Repository]
+- 项目主页：[(https://github.com/Echoin2025/Posner-Master/)]
 - 邮箱：[Echoin2023@outlook.com]
 - 课程：脑与认知科学 | 2025年春季学期
 
